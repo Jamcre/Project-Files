@@ -1,2 +1,2 @@
 # Projects
-This repository will contain projects with multiple technologies that are complete (mostly).
+This repository will contain the files/source code for my (mostly) completed projects.
